@@ -13,6 +13,6 @@ setup( name="galaxy_ops",
        author="Dan Blankenberg, Galaxy Team",
        author_email="galaxy-dev@lists.galaxyproject.org",
        description="Galaxy operations.",
-       url="http://galaxyproject.org",
+       url="https://github.com/galaxyproject/gops",
        zip_safe=False,
        dependency_links=[] )
